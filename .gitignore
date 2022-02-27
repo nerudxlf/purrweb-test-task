@@ -1,0 +1,6 @@
+dist
+node_modules
+test
+.env
+tsconfig.build.json
+tsconfig.json
